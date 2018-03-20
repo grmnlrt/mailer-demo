@@ -17,6 +17,7 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
 gem 'postmark-rails'
+gem 'gibbon'
 
 group :development do
   gem "letter_opener"
